@@ -1,0 +1,38 @@
+element.style {
+  word-break: break-word;
+}
+body, p {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+user agent stylesheet
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+.bee-row-1 .bee-col-1 .bee-block-6 {
+  color: #ffffff;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 104px;
+  line-height: 120%;
+  text-align: center;
+}
+.bee-paragraph {
+  overflow-wrap: anywhere;
+}
+.bee-row-1 .bee-row-content, .bee-row-10 .bee-row-content, .bee-row-11 .bee-row-content, .bee-row-12 .bee-row-content, .bee-row-13 .bee-row-content, .bee-row-14 .bee-row-content, .bee-row-7 .bee-row-content, .bee-row-8 .bee-row-content {
+  background-repeat: no-repeat;
+  color: #000000;
+}
+body {
+  background-color: #0068a5;
+  color: #000000;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
